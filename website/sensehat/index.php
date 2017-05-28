@@ -14,6 +14,14 @@ $(document).ready(function(){
 <link href="style.css" rel="stylesheet">
 <link rel="icon" href="../../piweb/images/favicon.ico">
 
+<link href="../../piweb/images/favicon.ico" rel="apple-touch-icon" />
+<link href="../../piweb/images/favicon.ico" rel="apple-touch-icon" sizes="76x76" />
+<link href="../../piweb/images/favicon.ico" rel="apple-touch-icon" sizes="120x120" />
+<link href="../../piweb/images/favicon.ico" rel="apple-touch-icon" sizes="152x152" />
+<link href="../../piweb/images/favicon.ico" rel="apple-touch-icon" sizes="180x180" />
+<link href="../../piweb/images/favicon.ico" rel="icon" sizes="192x192" />
+<link href="../../piweb/images/favicon.ico" rel="icon" sizes="128x128" />
+
 <title>Sense HAT PiWeb API</title>
 </head>
 
